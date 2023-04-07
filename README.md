@@ -1,4 +1,4 @@
-# DIAGNOSTIC LABORATORY 
+# Automatic Number Plate Recognition System 
 This program is designed to learn computer vision and opened to add the new options. 
 
 Existing options:
