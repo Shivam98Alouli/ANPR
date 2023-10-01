@@ -40,4 +40,3 @@ typing-extensions	4.2.0
 urllib3	1.26.9	
 wheel	0.36.2
 
-[Github-flavored Markdown](https://github.com/MikhailP39/diagnostic_lab.git)# ANPR
