@@ -2,8 +2,8 @@
 This application has been updated to include the new choices and is intended to teach computer vision. It makes it easier for us to view license plates on moving vehicles. It will display license plate information in digital form using optical character recognition.
 
 # Existing options:
-counter - for counting the items on the image; 
-anpr - automation number-plate recognition;
+* counter - for counting the items on the image.
+* anpr - automation number-plate recognition.
 
 # libraries: 
 1. Babel	2.10.1	
